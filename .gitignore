@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# MLflow
+mlruns/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models / data
+*.pkl
+*.pt
+*.h5
