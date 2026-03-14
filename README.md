@@ -10,10 +10,6 @@
 
 ---
 
-## 🖥️ Live Demo
-
-![StockSense Demo](assets/demo.png)
-
 ---
 
 ## 🧠 What It Does
