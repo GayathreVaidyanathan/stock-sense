@@ -135,4 +135,4 @@ mlflow ui --backend-store-uri ./mlruns
 ## 👩‍💻 Author
 
 **Gayathre Vaidyanathan**  
-[GitHub](https://github.com/GayathreVaidyanathan) • [LinkedIn](www.linkedin.com/in/gayathre-vaidyanathan-567b4a30a)
+[GitHub](https://github.com/GayathreVaidyanathan) 
